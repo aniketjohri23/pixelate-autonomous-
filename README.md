@@ -3,4 +3,4 @@ This is an autonomous robot system in webots simulation which uses open cv for p
 The blocks containing shapes have certain conditions such as triangle denoting a one way path.
 The objective is to pick up patients from their respective pickup point and release them at their stated hospitals with the condition that the other patient should is not in the path.The cost of the path should be minimum
 For shortest path we used the Dijkstra's algorithm since it works with positve weights and for tracking the robot's position we have used the aruco marker which comes under the open cv library
-
+![sample]()
