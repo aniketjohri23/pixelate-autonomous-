@@ -1,5 +1,5 @@
 # pixelate-autonomous-
-This is an autonomous robot system in webots simulation which uses open cv for path image and path planning.The sample path is given and is a nXn matrix with blocks of different colour denoting different costs of moving to the block
+This is an autonomous robot system in webots simulation which uses open cv for path image and path planning.The sample path is given is a nXn matrix with blocks of different colour denoting different costs of moving to the block
 The blocks containing shapes have certain conditions such as circle denoting a patient.
 
 
